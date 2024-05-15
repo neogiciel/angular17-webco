@@ -1,4 +1,4 @@
-﻿## <h1>Application Angular 16 Web Component </h1>
+﻿## <h1>Application Angular 17 Web Component </h1>
 ***
 <table>
   <tr>
